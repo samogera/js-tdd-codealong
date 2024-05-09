@@ -1,1 +1,4 @@
-// Your code here
+export function currentAgeForBirthYear(birthYear, currentYear) {
+    return currentYear - birthYear;
+  }
+  
